@@ -1,0 +1,2 @@
+cd benchmarking
+./run.sh
